@@ -1,0 +1,11 @@
+{
+  "name": "files",
+  "version": "1.0.0",
+  "description": "A command line script to fetch file content locally or from a URL",
+  "main": "step1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Sarah Caldwell <fefe.caldwell81@gmail.com>",
+  "license": "ISC"
+}
